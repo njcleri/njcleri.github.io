@@ -1,6 +1,4 @@
-# aibhleog.github.io
-See my [personal website here!](http://aibhleog.github.io). I use an [HTML5UP](html5up.net) template whose HTML and CSS I've heavily edited.  
+# njcleri.github.io
+See my [personal website here!](http://njcleri.github.io). I use an [HTML5UP](html5up.net) template, heavily edited by Taylor Hutchison (@aibhleog), further chopped up and buchered by me.  
 
-For anyone looking to find amazing phone/tablet/computer-compatible templates that are clean and well-designed (and also allow you to tweak every little thing), check out [HTML5UP](html5up.net).  [@ajlkn](http://twitter.com/ajlkn), the creator of these sites, is wonderfully talented and has provided these resources for FREE.
-
-Will eventually move to taylorhutchison.space (that URL currently forwards here).
+These templates are freely available at [HTML5UP](html5up.net), created by [@ajlkn](http://twitter.com/ajlkn).
