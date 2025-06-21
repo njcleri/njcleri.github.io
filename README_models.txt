@@ -1,7 +1,10 @@
 Nikko Cleri
 May 2025
 
-The models created here are to be used in Cleri et al. in prep., part of JWST-AR-05558, which will study the major optical line ratio diagnostics of ionizing sources at a large range of redshifts.
+The models created here are computed for Cleri et al. 2025, part of NASA grant JWST-AR-05558. 
+Please cite Cleri et al. 2025 when using any of these models (Link to ADS). 
+
+
 As a part of this work, we have produced a large model library from the photoionization modeling code Cloudy, which models the nebular emission for many different permutations of ionizing SED, metallicity, and other parameters. 
 
 The code uses an input builder tool and a slurm file builder tool from my (Nikko's) GitHub (github.com/njcleri/nikkos-tools). 
@@ -14,7 +17,8 @@ For all models, we iterate over:
     13 total log(U) steps
 
 - Hydrogen density:
-    We run two densities, log(n_H/cm^-3) = 2, 3
+    Stellar models: log(n_H/cm^-3) = 2, 3
+    Black hole models: log(n_H/cm^-3) = 2, 3, 4
 
 ***BPASS STELLAR MODELS***
 For BPASS stellar models (using v2.2.1, Stanway & Eldridge 2018):
