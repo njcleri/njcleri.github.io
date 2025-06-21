@@ -4,7 +4,6 @@ June 2025
 The models created here are computed for Cleri et al. 2025, part of NASA grant JWST-AR-05558. 
 Please cite Cleri et al. 2025 when using any of these models (Link to ADS). 
 
-
 As a part of this work, we have produced a large model library from the photoionization modeling code Cloudy, which models the nebular emission for many different permutations of ionizing SED, metallicity, and other parameters. 
 
 The code uses an input builder tool and a slurm file builder tool from my (Nikko's) GitHub (github.com/njcleri/nikkos-tools). 
